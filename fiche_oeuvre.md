@@ -6,7 +6,7 @@ Je n'aimerais pas retenir le fait que ça parle de drogue et que c'est très per
 ## L'information sempiternel
 Nous rentrons dans une salle. 7 écrans se retrouvent face à nous. Sur chaque écran se retrouve une vidéo différente, de manière à croire que ça l'a été filmé durant différentes époques. Il y a des haut-parleurs placé au dessus qui sont des gens qui parlent dans la vidéo au-dessus de nos tête et des lumières accroché au plafond, mais qui ne font pas de lumière.
 
-![photo-ecran](information_sempiternel.jpg)
+![vide_colore](information_sempiternel.jpg)
 
 
 ## Synchronisation révélatrice
