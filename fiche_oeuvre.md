@@ -11,15 +11,15 @@ Nous rentrons dans une salle. 7 écrans se retrouvent face à nous. Sur chaque �
 
 ## Synchronisation révélatrice
 Par la suite, toutes les personnes dans les clips se sont mis à faire la même chorégraphie.Les écrans flashait et les lumières aussi en blanc. la musique incomfortable nous calme et force à ne plus bouger.
-![VideoCapture_20240207-154126](synchronisation_revelatrice.jpg)
+![VideoCapture_20240207-154126](media/synchronisation_revelatrice.jpg)
 
 ## Effet glitch
 Par la suite, les vidéos deviennent colorés avec des effets glitch simulant la prise de drogue. la musique devient vide et fade comme pour simuler la perte de conscience. La lumière change de couleur de façon un peu mouvementé.
-![VideoCapture_20240207-154122](effet_glitch.jpg)
+![VideoCapture_20240207-154122](media/effet_glitch.jpg)
 
 ## Vide coloré
 Pour finir, les écrans se transforment en écran pouvant rappeler le vide, mais avec des couleurs hypnotisantes. la musique est plus calme et les lumières changent de couleurs de façon plus calme.
-![VideoCapture_20240207-154113](vide_colore.jpg)
+![VideoCapture_20240207-154113](media/vide_colore.jpg)
 
 ## Conclusion
 J'ai trouvé l'oeuvre captivante et m'a donné comme idées de jouer avec les textures, tel que le plancher et les marches de tapis. J'ai aimé aussi le fait que toutes les vidéos était finalement connecté, et non filmés à différentes époques.
